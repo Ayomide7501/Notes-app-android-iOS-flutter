@@ -1,0 +1,1 @@
+ C:\\Users\\xquiz\\Desktop\\Flutter\\mynotes\\.dart_tool\\flutter_build\\0a2076255c240ce7531c950f2576c5d1\\native_assets.yaml: 
